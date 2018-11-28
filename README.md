@@ -1,2 +1,2 @@
 # Nine-Chapter
-This is for leetcode and Lincode problem practice 
+This is for leetcode and Lintcode problem practice 
